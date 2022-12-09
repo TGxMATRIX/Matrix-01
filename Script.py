@@ -191,7 +191,14 @@ IMDb Data:
 🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
+🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>
+☀️ Languages</b> : <code>{languages}</code>\n<b>
+👨‍💼 Dɪʀᴇᴄᴛᴏʀ</b>: {director}\n<b>
+👨🏻‍🦱 Pʀᴏᴅᴜᴄᴇʀ</b>: {producer}\n<b>
+📀 RunTime</b>: {runtime} Minutes\n<b>
+📆 Release Info</b> : {release_date}\n<b>
+📓 Sᴛᴏʀy</b> : <code>{plot}</code>\n\n\n<b>
+🍀Requested by🍀</b> : {message.from_user.mention}"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
