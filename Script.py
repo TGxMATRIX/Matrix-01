@@ -180,8 +180,8 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ ᴄʜᴀɴɴᴇʟ : @MatRixBotzTG
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @MatRixBotzTGsupport
 ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
