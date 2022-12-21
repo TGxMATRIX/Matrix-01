@@ -179,10 +179,10 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
-<b>===========
+<b>
 ▫️ ᴄʜᴀɴɴᴇʟ : @MatRixBotzTG
 ▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @MatRixBotzTGsupport
-===========</b>"""
+</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
